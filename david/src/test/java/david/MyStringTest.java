@@ -8,6 +8,8 @@ import org.junit.Test;
 
 public class MyStringTest {
 
+	//Dos tests
+	
 	@Test
 	public void testLongitudDistinta() {
 		MyString prueba = new MyString("prueba");
