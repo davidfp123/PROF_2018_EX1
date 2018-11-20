@@ -7,8 +7,6 @@ import static org.junit.Assert.assertTrue;
 import org.junit.Test;
 
 public class MyStringTest {
-
-	//Dos tests
 	
 	@Test
 	public void testLongitudDistinta() {
